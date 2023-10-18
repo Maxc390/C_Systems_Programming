@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# simple shell script
+echo "Welcome to the shell script!"
+
+#!/bin/bash
+
+while true
+do
+    echo "Hello, I'm here"
+    sleep 2
+done
+
+sleep 10
+echo "NYONGA script has finished."
+
